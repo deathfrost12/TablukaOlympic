@@ -1,0 +1,93 @@
+h1  {
+    font-family: sans-serif;
+    background-color: rgb(36, 36, 36);
+    background-blend-mode: darken;
+    color: white;
+    text-align: center;
+    font-size: 250%;
+}
+body {
+    background-image: url('https://cdn.xsd.cz/resize/ccd739eaf6573fad80e92f561f7bfc48_resize=1886,1357_.jpg?hash=13df83eb6cdc1a25083bc6d1a2a99828');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% ;
+}
+
+
+table {
+    width: 100%;
+}
+tr {
+    text-align: center;
+}
+
+td, th {
+    padding: 10px;
+}
+
+table, th, td {
+    border: 1px solid rgb(37, 37, 37);
+    border-collapse: collapse;
+}
+
+main {
+    width: 1500px;
+    margin: 0 auto;
+}
+
+
+.flag {
+    height: 20px;
+}
+
+.font2  {
+font-size: 120%;
+font-family: arial, sans-serif;
+color: rgb(12, 12, 12);
+}
+
+.font  {
+    font-size: 120%;
+    font-family: arial, sans-serif;
+    color: rgb(241, 241, 241);
+    }
+
+.text-bold {
+    font-weight: bold;
+}
+
+.gold {
+    background-color: goldenrod;
+}
+
+.silver {
+    background-color: silver;
+}
+.bronze {
+    background-color: #cd7f32;
+}
+.white  {
+    background-color: rgb(36, 36, 36);
+}
+.pozadi {
+    background-color: rgb(40, 40, 40);
+}
+.olympic {
+    font-family:'Times New Roman';
+    font-size: 150%;
+    font-family: sans-serif;
+    color: rgb(235, 235, 235);
+}
+.text {
+    color: #ffffff;
+    font-size: 110%;
+}
+
+
+.oly2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+
+}
